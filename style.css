@@ -1,0 +1,170 @@
+*, 
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aqua;
+}
+
+
+.navbar {
+    background-color: #333;
+    width: 100%;
+    height: 100px;
+}
+
+.content {
+    background-color:white;
+}
+
+.footer {
+    background-color: white;
+}
+
+.ul {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li {
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px;
+    color: aqua;
+    font-size: 30px;
+}   
+
+.li :hover {
+    background-color: white;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 10px;
+}
+.content {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content11 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a-content {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b-content {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content1 {
+    width: 100%;
+    height: 50%;
+}
+
+.content2 {
+    width: 100%;
+    height: 50%;
+}
+
+.footer {
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer1 {
+    background-color: #333;
+    color: white;
+}
+
+.a {
+    color:aqua;
+    text-decoration: none;    
+}
+
+.sss {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.sds {
+    background-color: aqua;
+}
+
+.ccc {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.ccc1c {
+    background-color: aqua;
+}
+
+.ccc2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aqua;
+}
+
+.sss2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.sss3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.h11 {
+    color: aqua;
+    background-color: #333;
+}
+
+.h112 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+}
+
+.ccc1 {
+    background-color: #333;
+}
+
+.sss23 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sss24 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333; 
+    color: aqua;
+}
